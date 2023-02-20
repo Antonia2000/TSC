@@ -5,3 +5,4 @@
 - Visual Studio Code
 - ModelSim
 - Push pe git pentru prezenta
+- ssh key
