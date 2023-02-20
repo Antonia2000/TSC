@@ -1,4 +1,5 @@
 # TSC
+
 -Ubuntu pe Windows
 -Visual Studio Code
 -ModelSim
