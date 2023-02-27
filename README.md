@@ -11,3 +11,6 @@
 -git config --global --list
 -git config --global user.email
 -autentificare fara credentiale
+-git config --global credential.helper store
+-ssh-keygen -t rsa -b 4069 -C "email"
+-git ignore: read and understand
