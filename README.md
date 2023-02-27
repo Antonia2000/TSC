@@ -10,3 +10,4 @@
 -git config --global user.name
 -git config --global --list
 -git config --global user.email
+-autentificare fara credentiale
