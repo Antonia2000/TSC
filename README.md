@@ -6,3 +6,4 @@
 - ModelSim
 - Push pe git pentru prezenta
 - ssh key
+-cd, ls, git clone, git status
