@@ -1,0 +1,138 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Antonia/Desktop/TSC_lab5/lab2
+vinstr_register
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 18 instr_register_pkg 0 22 IgE`8h8U:PS]`gLM`S9Tl1
+!s110 1679853732
+!i10b 1
+!s100 H`T^m5Hl8N9LD^kA@o;bo3
+IjldRSkH:ESW>GRO?o3`OY2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 instr_register_sv_unit
+S1
+R0
+w1679853388
+8C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register.sv
+FC:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register.sv
+L0 11
+Z4 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1679853732.000000
+!s107 C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register.sv|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+Xinstr_register_pkg
+R1
+!s110 1679853722
+!i10b 1
+!s100 :d3O9o]dIX]TDe50g:VBF2
+IIgE`8h8U:PS]`gLM`S9Tl1
+VIgE`8h8U:PS]`gLM`S9Tl1
+S1
+R0
+w1678691228
+8C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register_pkg.sv
+FC:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register_pkg.sv
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1679853722.000000
+!s107 C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register_pkg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab_dut/instr_register_pkg.sv|
+!s101 -O0
+!i113 1
+R5
+R6
+vinstr_register_test
+R1
+R2
+!s110 1679853737
+!i10b 1
+!s100 :ecDbab]?N1QKI_5gfK]V3
+IQABafl?4][iL9<1Q9m;im0
+R3
+!s105 instr_register_test_sv_unit
+S1
+R0
+w1679853702
+8C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/instr_register_test.sv
+FC:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/instr_register_test.sv
+L0 9
+R4
+r1
+!s85 0
+31
+!s108 1679853737.000000
+!s107 C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/instr_register_test.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/instr_register_test.sv|
+!s101 -O0
+!i113 1
+R5
+R6
+Ytb_ifc
+R1
+R2
+!s110 1679853728
+!i10b 1
+!s100 XL`f5CRMoTWXhWaN>LncF3
+ImBVdhUKHI6S8c?V1]nMC53
+R3
+!s105 tb_ifc_sv_unit
+S1
+R0
+w1679853422
+8C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/tb_ifc.sv
+FC:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/tb_ifc.sv
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1679853728.000000
+!s107 C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/tb_ifc.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/tb_ifc.sv|
+!s101 -O0
+!i113 1
+R5
+R6
+vtop
+R1
+R2
+!s110 1679853740
+!i10b 1
+!s100 G69Q;=0aDR2dmF0cnXR^E1
+I2o=fnk]<k7NW^WCDLFB_21
+R3
+!s105 top_sv_unit
+S1
+R0
+w1679853457
+8C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/top.sv
+FC:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/top.sv
+L0 8
+R4
+r1
+!s85 0
+31
+!s108 1679853740.000000
+!s107 C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/top.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Antonia/Desktop/TSC_lab5/lab2/lab01_testbench-interface/top.sv|
+!s101 -O0
+!i113 1
+R5
+R6
