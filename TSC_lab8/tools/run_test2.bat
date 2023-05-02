@@ -1,0 +1,1 @@
+call run_test2.bat 100 2 c
